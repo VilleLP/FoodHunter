@@ -24,12 +24,18 @@
     <ClCompile Include="Food1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Collisioncheck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Enemy1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Food1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Collisioncheck.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

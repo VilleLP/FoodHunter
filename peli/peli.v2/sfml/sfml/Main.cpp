@@ -57,7 +57,9 @@ static void loop(sf::RenderWindow& window)
 		window.clear(sf::Color(50, 50, 50, 255));
 		clock.restart();
 		food1.draw(window);
+		food1.foodCollisionCheck(elapsedTime);
 		enemy1.draw(window);
+		enemy1.eCollisionCheck(elapsedTime);
 		enemy1.moveMent();
 		window.display();
 	}
