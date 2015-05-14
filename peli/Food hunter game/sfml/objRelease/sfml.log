@@ -1,0 +1,60 @@
+﻿Build started 14.5.2015 21:21:00.
+     1>Project "F:\kansiot\Foodhunting\peli.v2\sfml\sfml\sfml.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IF:\kansiot\Foodhunting\peli.v2\sfml\sfml\include\ /I"F:\kansiot\Foodhunting\peli.v2\sfml\..\SFML-2.2\include" /IF:\kansiot\Foodhunting\peli.v2\sfml\..\Box2D\ /Zi /nologo /W4 /WX- /O2 /Oi /Oy- /GL /D SFML_STATIC /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"F:\kansiot\Foodhunting\peli.v2\sfml\sfml\objRelease\\" /Fd"F:\kansiot\Foodhunting\peli.v2\sfml\sfml\objRelease\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Collisioncheck.cpp Enemy1.cpp Food1.cpp Main.cpp Player.cpp
+         Collisioncheck.cpp
+     1>f:\kansiot\foodhunting\peli.v2\sfml\sfml\Player.h(62): warning C4512: 'Player' : assignment operator could not be generated
+                 f:\kansiot\foodhunting\peli.v2\sfml\sfml\Player.h(15) : see declaration of 'Player'
+     1>f:\kansiot\foodhunting\peli.v2\sfml\sfml\Enemy1.h(45): warning C4512: 'Enemy1' : assignment operator could not be generated
+                 f:\kansiot\foodhunting\peli.v2\sfml\sfml\Enemy1.h(14) : see declaration of 'Enemy1'
+     1>f:\kansiot\foodhunting\peli.v2\sfml\sfml\Food1.h(38): warning C4512: 'Food1' : assignment operator could not be generated
+                 f:\kansiot\foodhunting\peli.v2\sfml\sfml\Food1.h(13) : see declaration of 'Food1'
+     1>Collisioncheck.cpp(7): warning C4100: 'e1' : unreferenced formal parameter
+     1>Collisioncheck.cpp(7): warning C4100: 'f1' : unreferenced formal parameter
+         Enemy1.cpp
+     1>f:\kansiot\foodhunting\peli.v2\sfml\sfml\Player.h(62): warning C4512: 'Player' : assignment operator could not be generated
+                 f:\kansiot\foodhunting\peli.v2\sfml\sfml\Player.h(15) : see declaration of 'Player'
+     1>f:\kansiot\foodhunting\peli.v2\sfml\sfml\Enemy1.h(45): warning C4512: 'Enemy1' : assignment operator could not be generated
+                 f:\kansiot\foodhunting\peli.v2\sfml\sfml\Enemy1.h(14) : see declaration of 'Enemy1'
+     1>f:\kansiot\foodhunting\peli.v2\sfml\sfml\Food1.h(38): warning C4512: 'Food1' : assignment operator could not be generated
+                 f:\kansiot\foodhunting\peli.v2\sfml\sfml\Food1.h(13) : see declaration of 'Food1'
+     1>Enemy1.cpp(22): warning C4189: 'result' : local variable is initialized but not referenced
+     1>Enemy1.cpp(86): warning C4100: 'elapsedTime' : unreferenced formal parameter
+         Food1.cpp
+     1>f:\kansiot\foodhunting\peli.v2\sfml\sfml\Food1.h(38): warning C4512: 'Food1' : assignment operator could not be generated
+                 f:\kansiot\foodhunting\peli.v2\sfml\sfml\Food1.h(13) : see declaration of 'Food1'
+     1>f:\kansiot\foodhunting\peli.v2\sfml\sfml\Player.h(62): warning C4512: 'Player' : assignment operator could not be generated
+                 f:\kansiot\foodhunting\peli.v2\sfml\sfml\Player.h(15) : see declaration of 'Player'
+     1>f:\kansiot\foodhunting\peli.v2\sfml\sfml\Enemy1.h(45): warning C4512: 'Enemy1' : assignment operator could not be generated
+                 f:\kansiot\foodhunting\peli.v2\sfml\sfml\Enemy1.h(14) : see declaration of 'Enemy1'
+     1>Food1.cpp(20): warning C4189: 'result' : local variable is initialized but not referenced
+     1>Food1.cpp(86): warning C4100: 'elapsedTime' : unreferenced formal parameter
+         Main.cpp
+     1>f:\kansiot\foodhunting\peli.v2\sfml\sfml\Player.h(62): warning C4512: 'Player' : assignment operator could not be generated
+                 f:\kansiot\foodhunting\peli.v2\sfml\sfml\Player.h(15) : see declaration of 'Player'
+     1>f:\kansiot\foodhunting\peli.v2\sfml\sfml\Enemy1.h(45): warning C4512: 'Enemy1' : assignment operator could not be generated
+                 f:\kansiot\foodhunting\peli.v2\sfml\sfml\Enemy1.h(14) : see declaration of 'Enemy1'
+     1>f:\kansiot\foodhunting\peli.v2\sfml\sfml\Food1.h(38): warning C4512: 'Food1' : assignment operator could not be generated
+                 f:\kansiot\foodhunting\peli.v2\sfml\sfml\Food1.h(13) : see declaration of 'Food1'
+         Player.cpp
+     1>f:\kansiot\foodhunting\peli.v2\sfml\sfml\Player.h(62): warning C4512: 'Player' : assignment operator could not be generated
+                 f:\kansiot\foodhunting\peli.v2\sfml\sfml\Player.h(15) : see declaration of 'Player'
+     1>Player.cpp(33): warning C4189: 'resultg2' : local variable is initialized but not referenced
+     1>Player.cpp(32): warning C4189: 'resultg' : local variable is initialized but not referenced
+     1>Player.cpp(31): warning C4189: 'result' : local variable is initialized but not referenced
+     1>Player.cpp(96): warning C4189: 'result' : local variable is initialized but not referenced
+     1>Player.cpp(102): warning C4189: 'result' : local variable is initialized but not referenced
+     1>Player.cpp(108): warning C4189: 'result' : local variable is initialized but not referenced
+     1>Player.cpp(114): warning C4189: 'result' : local variable is initialized but not referenced
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\kansiot\Foodhunting\peli.v2\sfml\Release\sfml.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"F:\kansiot\Foodhunting\peli.v2\sfml\..\SFML-2.2\lib" /LIBPATH:F:\kansiot\Foodhunting\peli.v2\sfml\..\Box2D\Build\vs2012\bin\Release\ "sfml-window-s.lib" "sfml-system-s.lib" "sfml-graphics-s.lib" glew.lib freetype.lib jpeg.lib opengl32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib OpenGL32.lib Box2D.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\kansiot\Foodhunting\peli.v2\sfml\Release\sfml.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\kansiot\Foodhunting\peli.v2\sfml\Release\sfml.lib" /MACHINE:X86 /SAFESEH F:\kansiot\Foodhunting\peli.v2\sfml\sfml\objRelease\Collisioncheck.obj
+         F:\kansiot\Foodhunting\peli.v2\sfml\sfml\objRelease\Enemy1.obj
+         F:\kansiot\Foodhunting\peli.v2\sfml\sfml\objRelease\Food1.obj
+         F:\kansiot\Foodhunting\peli.v2\sfml\sfml\objRelease\Main.obj
+         F:\kansiot\Foodhunting\peli.v2\sfml\sfml\objRelease\Player.obj
+     1>LINK : fatal error LNK1181: cannot open input file 'Box2D.lib'
+     1>Done Building Project "F:\kansiot\Foodhunting\peli.v2\sfml\sfml\sfml.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:10.22
